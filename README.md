@@ -47,9 +47,7 @@
     |-- screens - The Top level redux-connected components
 ```
 
-## Contributing
 
-Please make all contributions based off the `develop` branch. The `develop` branch is where new features or implementations will be built from. After making an appropriate branch and completing your work. Please make a pull request to merge to develop from your branch, adding *Miguel* `mcabs3` as the reviewer.
 
 ## Beta Release
 We use fastlane for automated releases to hockeyapp where our Android and iOS beta apps are released.
