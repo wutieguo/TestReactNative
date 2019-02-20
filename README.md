@@ -61,8 +61,8 @@ We use fastlane for automated releases to hockeyapp where our Android and iOS be
 ## Integrations
 
 FaceBook
-- App ID: `2172025979530425`
-- App Token: `7bea5ee8e73c5fdba2d7533cc8dbc061`
+- App ID: 
+- App Token: 
 
 ## Outstanding Issues
 - Proposal Swiper styling (Miguel)
