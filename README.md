@@ -64,9 +64,4 @@ FaceBook
 - App ID: 
 - App Token: 
 
-## Outstanding Issues
-- Proposal Swiper styling (Miguel)
-- Match popup modal not popping up (Miguel)
-- Photo Upload/Video Upload (John)
-- Chat API Implementation (John)
-- SVG not loading for wonders
+
