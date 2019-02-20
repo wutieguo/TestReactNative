@@ -1,4 +1,4 @@
-# Wonder App
+# Test ReactNative Mobile App
 
 ## Mobile Tech Stack
 - Node 10.4.1
